@@ -2,5 +2,5 @@ def alphabetize(arr)
 alphabet = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
 
 arr.sort_by do |phrase| 
-  phrase.split.map do |
+  phrase.split.map do |letters|
 end

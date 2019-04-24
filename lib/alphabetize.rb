@@ -3,5 +3,5 @@ alphabet = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
 
 arr.sort_by do |phrase| 
   phrase.split.map do |letters|
-    alphabet
+    alphabet.index(letters)
 end

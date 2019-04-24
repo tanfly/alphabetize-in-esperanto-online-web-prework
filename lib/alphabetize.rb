@@ -1,4 +1,4 @@
 def alphabetize(arr)
-alphabet = arr 
+alphabet = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
 
 end
